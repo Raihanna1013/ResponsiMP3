@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1014379979673",
+    "project_id": "responsimp3-fabb9",
+    "storage_bucket": "responsimp3-fabb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014379979673:android:cc0adb4c648c1013d1e908",
+        "android_client_info": {
+          "package_name": "com.example.responsimp3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014379979673-m7aibrikh706mogd9l9u16fvg4eajg2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzOiyPEJyYzGcURprArV_RAHqBe0wSvBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014379979673-m7aibrikh706mogd9l9u16fvg4eajg2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
